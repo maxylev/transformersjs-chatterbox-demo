@@ -2,7 +2,7 @@ export default function GitHubBanner() {
   return (
     <div className="bg-gradient-to-r from-violet-600/90 to-pink-600/90 text-white">
       <a
-        href="https://github.com/resemble-ai/transformersjs-chatterbox-demo"
+        href="https://github.com/maxylev/transformersjs-chatterbox-demo/tree/main"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center justify-center gap-2 px-4 py-2 text-sm font-medium hover:opacity-90 transition-opacity"
