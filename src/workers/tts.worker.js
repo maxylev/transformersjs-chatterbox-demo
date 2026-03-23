@@ -1,6 +1,6 @@
 import { ChatterboxModel, AutoProcessor, Tensor } from '@huggingface/transformers'
 
-const MODEL_ID = 'onnx-community/chatterbox-multilingual-ONNX'
+const MODEL_ID = 'melonask/chatterbox-multilingual-ONNX'
 
 let model = null
 let processor = null
